@@ -1,3 +1,4 @@
+#
 revenue = float(input("Ваш доход: "))
 costs = float(input("Ваши расходы: "))
 profit = revenue - costs
