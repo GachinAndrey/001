@@ -1,3 +1,4 @@
+#
 days = 1
 first_jogging = float(input("Результат в первый день: "))
 last_jogging = float(input("Нужный результат: "))

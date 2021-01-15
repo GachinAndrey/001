@@ -1,3 +1,4 @@
+#
 number = int(input('Введите чило: '))
 max_num = 0
 while number != 0:
